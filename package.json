@@ -1,0 +1,27 @@
+{
+    "name": "hit-counter",
+    "version": "1.0.0",
+    "description": "A simple website visitor counter API.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/IzMichael/hit-counter.git"
+    },
+    "keywords": [],
+    "author": "IzMichael",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/IzMichael/hit-counter/issues"
+    },
+    "homepage": "https://github.com/IzMichael/hit-counter#readme",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "helmet": "^4.6.0",
+      "node-fetch": "^2.0.0"
+    }
+  }
+  
